@@ -13,13 +13,12 @@
   },
   "dependencies": {
     "lwc": "2.17.0",
-    "lwr": "0.8.0"
+    "lwr": "^0.8.0"
   },
   "engines": {
     "node": ">=14.15.4 <19"
   },
   "description": "I deployed a sample LWR app on render.com, Render.com is Heroku alternative, platform as a service.\r It also has plans for free tier.",
   "main": "index.js",
-  "devDependencies": {},
   "author": ""
 }

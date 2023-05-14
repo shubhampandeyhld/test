@@ -1,0 +1,8 @@
+{
+  "assets": {
+    "%5Cpublic%5Cassets%5Crecipes-logo.png": {
+      "path": "\\public\\assets\\recipes-logo.png",
+      "mimeType": "image/png"
+    }
+  }
+}

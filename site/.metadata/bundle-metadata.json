@@ -1,0 +1,40 @@
+{
+  "bundles": {
+    "example/app": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/7baef95ac2e791b0d6469b343a30f5e1c3eae067/bundle_example_app.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_17_0"
+      ]
+    },
+    "@lwrjs/app-service/example/module/esm": {
+      "version": "0.9.4",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_9_4/s/8685ef0ce780f0a08162232ededa4e8cefcf1f5c/bundle_@lwrjs_app-service_example_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader/v/0_8_0",
+        "lwr/profiler/v/0_8_0",
+        "lwc/v/2_17_0"
+      ]
+    },
+    "lwc": {
+      "version": "2.17.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/2_17_0/s/8de9e4838d53c90f8a2dd1e53fb0aee923204825/bundle_lwc.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "lwr/esmLoader": {
+      "version": "0.8.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_8_0/s/4024c62de88334d5e68285f54ba140249693bd6c/bundle_lwr_esmLoader.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "lwr/profiler": {
+      "version": "0.8.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_8_0/s/26b2c506ed57ead0f60365893dc1f329f6e57a61/bundle_lwr_profiler.js",
+      "includedModules": [],
+      "imports": []
+    }
+  }
+}
